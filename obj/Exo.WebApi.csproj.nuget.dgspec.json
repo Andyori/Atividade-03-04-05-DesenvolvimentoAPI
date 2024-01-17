@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\Atividade-03-04-05-DesenvolvimentoAPI\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\Atividade-03-04-05-DesenvolvimentoAPI\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\Atividade-03-04-05-DesenvolvimentoAPI\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\Atividade-03-04-05-DesenvolvimentoAPI\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\Stargazer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Stargazer\\Desktop\\Exo.WebApi\\Atividade-03-04-05-DesenvolvimentoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stargazer\\AppData\\Roaming\\NuGet\\NuGet.Config"
